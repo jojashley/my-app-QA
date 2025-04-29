@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
+import { CalculadoraComponent } from './calculadora/calculadora.component'; // <-- importa aquí
 
 @Component({
   selector: 'app-root',
